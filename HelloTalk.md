@@ -18,6 +18,9 @@ How about you.
 Really?
 So do I 我也是
 Yess 表示激动
+wow
+yet 至今
+okay
 ```
 
 缩写词
@@ -26,6 +29,7 @@ Yess 表示激动
 lol = laughing out loud 大笑
 Ahh 恍然大悟
 how old u r
+hbu = how about you
 coz = because
 ikr = I know right 我知道
 ```
@@ -34,5 +38,8 @@ ikr = I know right 我知道
 
 ```
 from now on then
+drama 电视剧	novels 小说
+
+电影：Bob Marley: One Love
 ```
 
