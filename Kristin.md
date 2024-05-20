@@ -10,6 +10,6 @@ raspy/hoarse
 purse/wallet
 living room  couch/sofa armchair	end table	coaster
 TV remote
-
+bedroom 
 ```
 
