@@ -1,6 +1,13 @@
+https://chatgpt.com/
+https://www.tiktok.com/en/
+https://translate.google.com/
+https://getsubs.cc/zh/tiktok-subtitles
+
+================================================================
+
 ```
 The bear tried to steal the dog, but the owner chased him away!
-Home page is moe amazing.
+Home page is more amazing.
 I admired the woman's courage.
 The bear reportedly called 911 and reported an assault.
 
@@ -80,5 +87,9 @@ baby gonna be a legend
 I can't believe we're the new parents
 
 Watching this is so stressful
+
+There is no better sound on Earth than a baby laughing.
+
+The second baby was like... bro, we were supposed to crawl, not frog-jump.
 ```
 
