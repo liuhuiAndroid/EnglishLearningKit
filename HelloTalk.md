@@ -43,3 +43,39 @@ drama 电视剧	novels 小说
 电影：Bob Marley: One Love
 ```
 
+日常英语
+
+```
+What do you want to eat for dinner?
+
+milk tea 奶茶
+
+World Cup 世界杯
+
+Fantasy Westward Journey 梦幻西游
+
+Arena of Valor 王者荣耀
+
+Jing'an District 静安区
+
+After dinner, do you want to take a stroll around Jing'an district? Near People's Square Subway Station.
+
+It was just so so.
+
+Umbrella 伞
+
+washing machine 洗衣机
+
+freestyle 自由泳
+
+breaststroke 蛙泳
+
+I want to drink Coca-Cola.
+
+Chinese hamburger 肉夹馍
+
+Never mind / Forget it 算了
+
+Dragon Ball 七龙珠
+```
+
